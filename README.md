@@ -5,7 +5,7 @@
 
 ## 运行
 
-打开你最喜欢的集成开发环境，打开main.py，修改自定义参数，点击集成开发环境的运行功能。如果你是Python新手，请在生成式对话人工智能的帮助下，修改example文件夹内的自定义参数，执行“`python .\lig2boltz\main.py --debug`”命令，执行代码后，在.\example\output文件夹下，可以看到生成的文件。
+打开你最喜欢的集成开发环境，打开main.py，修改自定义参数，点击集成开发环境的运行功能。如果你是Python新手，请在生成式对话人工智能的帮助下，修改example文件夹内的自定义参数，执行“`python .\lig2boltz\main.py --debug`”命令，执行代码后，在`.\example\output`文件夹下，可以看到生成的文件。
 
 ## 自定义参数
 
@@ -18,7 +18,7 @@
 
 ## Execution
 
-Open your favorite Integrated Development Environment (IDE), open main.py, modify the customizable parameters, and click the run function of the IDE. If you are new to Python, with the help of a generative conversational AI, please modify the customizable parameters in the example folder, execute the command `python .\lig2boltz\main.py` --debug. After running the code, you can find the generated files in the .\example\output folder.
+Open your favorite Integrated Development Environment (IDE), open main.py, modify the customizable parameters, and click the run function of the IDE. If you are new to Python, with the help of a generative conversational AI, please modify the customizable parameters in the example folder, execute the command `python .\lig2boltz\main.py --debug`. After running the code, you can find the generated files in the `.\example\output` folder.
 
 ## Customizable Parameters
 
